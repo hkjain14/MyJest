@@ -4,7 +4,7 @@ This repo is to show how to mock
 * Objects 
 * Classes 
 
-which are used in a file and whose test cases we are writing (here : main.js).
+which are used in a file and whose test cases we are writing (here : main.js)
 
 
 #Usage
