@@ -10,4 +10,4 @@ which are used in a file and whose test cases we are writing (here : main.js).
 #Usage
 * Clone the repo.
 * Run ```npm install```
-* Run the required test file.
+* Run the required test file
