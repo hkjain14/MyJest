@@ -20,7 +20,7 @@ function multiplication(a,b) {
 }
 
 function subtraction(a,b) {
-  return a-b+2;
+  return a-b+3;
 }
 
 function multiplicationAlt(a,b){
