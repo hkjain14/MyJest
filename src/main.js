@@ -19,10 +19,6 @@ function multiplication(a,b) {
   return m.doMult(a,b);
 }
 
-function subtraction(a,b) {
-  return a-b+3;
-}
-
 function multiplicationAlt(a,b){
   const s = new mul();
   // Although MultClass does not have fakeFunc, still this is mockable
